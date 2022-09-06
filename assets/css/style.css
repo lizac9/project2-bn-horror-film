@@ -75,3 +75,31 @@ h2 {
     background-color: #d2d2d2;
     border-radius: 4px;
 }
+
+.btn:hover {
+    cursor: pointer;
+    box-shadow: 0 0.4rem 1.4rem 0 black;
+    transition: transform 150ms;
+    transform: scale(1.03);
+}
+
+.btn[disabled]:hover{
+    cursor: not-allowed;
+    box-shadow: none;
+    transform: none;
+}
+
+/* Font awesome icons */
+
+
+.fa-play{
+    font-size: 2.5rem;
+    margin-left: 1rem;
+}
+
+.fa-crown{
+    font-size: 2.5rem;
+    margin-left: 1rem;
+}
+
+/* Game Styling */
