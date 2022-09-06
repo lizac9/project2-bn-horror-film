@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Bigelow+Rules&family=Wire+One&display=swap');
+
+:root {
+    background-color: white;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-size: 62.5%;
+    font-family: 'Wire One', sans-serif;
+}
+
+h1 {
+    font-size: 5.4rem;
+    color: black;
+    margin-bottom: 5rem;
+    font-family: 'Bigelow Rules', sans-serif;
+    text-align: center;
+
+}
+
+h2 {
+    font-size: 3.2rem;
+    margin-bottom: 4rem;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 80rem;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+/* center */
+
+.flex-column {
+    display: flex;
+    flex-direction: column;
+}
+
+.flex-center {
+    justify-content: center;
+    align-items: center;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.hidden {
+    display: none;
+}
+
+/*buttons*/
+
+.btn {
+    font-size: 3.2rem;
+    font-family: 'Bigelow Rules', sans-serif;
+    padding: 2rem 0;
+    width: 30rem;
+    text-align: center;
+    margin-bottom: 1rem;
+    text-decoration: none;
+    color: black;
+    background-color: #d2d2d2;
+    border-radius: 4px;
+}
