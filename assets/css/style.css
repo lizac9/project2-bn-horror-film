@@ -83,7 +83,7 @@ h2 {
     transform: scale(1.03);
 }
 
-.btn[disabled]:hover{
+.btn[disabled]:hover {
     cursor: not-allowed;
     box-shadow: none;
     transform: none;
@@ -92,14 +92,47 @@ h2 {
 /* Font awesome icons */
 
 
-.fa-play{
+.fa-play {
     font-size: 2.5rem;
     margin-left: 1rem;
 }
 
-.fa-crown{
+.fa-crown {
     font-size: 2.5rem;
     margin-left: 1rem;
 }
 
 /* Game Styling */
+
+body {
+    color: black;
+    font-size: 15rem;
+}
+
+.choice-container {
+    display: flex;
+    margin-bottom: 0.8rem;
+    width: 100%;
+    border-radius: 4px;
+    background: #d2d2d2;
+    font-size: 3rem;
+    min-width: 80rem;
+}
+
+.choice-container:hover {
+    cursor: pointer;
+    box-shadow: 0 0.4rem 1.4rem 0 black;
+    transition: transform 100ms;
+    transform: scale(1.01);
+
+}
+
+.choice-prefix {
+    padding: 2rem 2.5rem;
+    color: black;
+}
+
+.choice-text{
+    padding: 2rem;
+    width: 100%;
+}
