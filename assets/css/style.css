@@ -136,3 +136,49 @@ body {
     padding: 2rem;
     width: 100%;
 }
+
+/*buttons correct or incorrect choice */
+
+.correct{
+    background-color: green;
+}
+.incorrect{
+    background-color: red;
+}
+/*Heads up Display*/
+#hud{
+    display: flex;
+    justify-content: space-between;
+}
+.hud-prefix{
+    text-align: center;
+    font-size: 2rem;
+}
+.hud-main-text{
+    text-align: center;
+}
+
+/*progress green bar */
+
+#progressBar{
+    width: 20rem;
+    height: 3rem;
+    border: 0.2rem solid green;
+    margin-top: 2rem;
+    border-radius: 50px;
+    overflow: hidden;
+}
+
+#progressBarFull{
+    height: 100%;
+    background: green;
+    width: 0%;
+}
+/*Media queries game */
+
+@media screen and (max-width: 600px) {
+    .choice-container{
+        min-width: 20rem;
+    }
+    
+}
