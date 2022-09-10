@@ -133,35 +133,39 @@ body {
     color: black;
 }
 
-.choice-text{
+.choice-text {
     padding: 2rem;
     width: 100%;
 }
 
 /*buttons correct or incorrect choice */
 
-.correct{
+.correct {
     background-color: green;
 }
-.incorrect{
+
+.incorrect {
     background-color: red;
 }
+
 /*Heads up Display*/
-#hud{
+#hud {
     display: flex;
     justify-content: space-between;
 }
-.hud-prefix{
+
+.hud-prefix {
     text-align: center;
     font-size: 2rem;
 }
-.hud-main-text{
+
+.hud-main-text {
     text-align: center;
 }
 
 /*progress green bar */
 
-#progressBar{
+#progressBar {
     width: 20rem;
     height: 3rem;
     border: 0.2rem solid green;
@@ -170,18 +174,19 @@ body {
     overflow: hidden;
 }
 
-#progressBarFull{
+#progressBarFull {
     height: 100%;
     background: green;
     width: 0%;
 }
+
 /*Media queries game */
 
 @media screen and (max-width: 600px) {
-    .choice-container{
+    .choice-container {
         min-width: 20rem;
     }
-    
+
 }
 
 /* End page */
@@ -193,4 +198,40 @@ body {
     align-items: center;
     max-width: 30rem;
 
+}
+
+input {
+    margin-bottom: 1rem;
+    width: 20rem;
+    padding: 1.5rem;
+    font-size: 3rem;
+    border: none;
+    box-shadow: black;
+}
+
+input::placeholder {
+    color: #aaa;
+}
+
+#username {
+    margin-bottom: 3rem;
+    width: 100%;
+    outline: none;
+}
+
+#end-text {
+    font-size: 4rem;
+    color: black;
+    text-align: center;
+}
+
+#saveScoreBtn {
+    border: none;
+}
+
+/* Font awesome icons */
+
+.fa-house{
+    margin-left: 0;
+    font-size: 2rem;
 }
