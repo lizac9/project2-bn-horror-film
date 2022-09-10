@@ -183,3 +183,14 @@ body {
     }
     
 }
+
+/* End page */
+
+.end-form-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 30rem;
+
+}
