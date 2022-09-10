@@ -161,7 +161,7 @@ body {
 
 /*progress green bar */
 
-#progressbar{
+#progressBar{
     width: 20rem;
     height: 3rem;
     border: 0.2rem solid green;
@@ -170,7 +170,7 @@ body {
     overflow: hidden;
 }
 
-#progressbarfull{
+#progressBarFull{
     height: 100%;
     background: green;
     width: 0%;

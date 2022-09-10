@@ -1,8 +1,8 @@
-const question = document.querySelector('question');
+const question = document.querySelector('#question');
 const choices = Array.from(document.querySelectorAll('.choice-text'));
-const progressText = document.querySelector('progresstext');
-const scoreText = document.querySelector('score');
-const progressBarFull = document.querySelector('progressbarfull');
+const progressText = document.querySelector('#progressText');
+const scoreText = document.querySelector('#score');
+const progressBarFull = document.querySelector('#progressBarFull');
 
 let currentQuestion = {};
 let acceptingAnswers = true;
@@ -58,10 +58,10 @@ startGame = () => {
 }
 
 getNewQuestion = () => {
-    if(availableQuestions.length === 0 || questionCounter > MAX_QUESTIONS){
+    if(availableQuestions.length === 0 || questionCounter > MAX_QUESTIONS) {
         localStorage.setItem('mostRecentScore', score)
 
-        return window.location.assign('')
+        return window.location.assign('/end.html')
     }
 
     questionCounter++
@@ -85,7 +85,7 @@ getNewQuestion = () => {
 
 choices.forEach(choice => {
     choice.addEventListener('click', e => {
-        if(!acceptingAnswers) return
+        if (!acceptingAnswers) return
 
         acceptingAnswers = false
         const selectedChoice = e.target
@@ -93,7 +93,7 @@ choices.forEach(choice => {
 
         let classToApply = selectedAnswer == currentQuestion.answer ? 'correct' : 'incorrect'
 
-        if(classToApply === 'correct') {
+        if (classToApply === 'correct') {
             incrementScore(SCORE_POINTS)
         }
 
@@ -105,6 +105,11 @@ choices.forEach(choice => {
 
         }, 1000)
     })
+})
+
+incrementScore = num => {
+    score +=num
+    scoreText.innerText = score 
 }
 
-)
+startGame()
