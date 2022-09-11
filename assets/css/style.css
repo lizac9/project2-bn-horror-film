@@ -231,19 +231,23 @@ input::placeholder {
 
 /* Font awesome icons */
 
-.fa-house{
+.fa-house {
     margin-left: 0;
     font-size: 2rem;
 }
 
 /* High Scores Page */
 
-#highScoresList{
+body {
+    color: black;
+}
+
+#highScoresList {
     list-style: none;
     margin-bottom: 4rem;
 }
 
-.high-score{
+.high-score {
     font-size: 3rem;
     margin-bottom: 0.5rem;
 }
