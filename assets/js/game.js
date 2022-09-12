@@ -1,3 +1,5 @@
+// Wait for the DOM to finish loading before running the game
+
 const question = document.querySelector('#question');
 const choices = Array.from(document.querySelectorAll('.choice-text'));
 const progressText = document.querySelector('#progressText');
@@ -64,6 +66,9 @@ startGame = () => {
     getNewQuestion()
 }
 
+// Checks the answer against the first element in
+// the returned calculateCorrectAnswer array
+
 getNewQuestion = () => {
     if (availableQuestions.length === 0 || questionCounter > MAX_QUESTIONS) {
         localStorage.setItem('mostRecentScore', score)
@@ -97,9 +102,9 @@ choices.forEach(choice => {
         acceptingAnswers = false
         const selectedChoice = e.target
         const selectedAnswer = selectedChoice.dataset['number']
-
+        // Gets the current tally of incorrect answers from the DOM and increments it
         let classToApply = selectedAnswer == currentQuestion.answer ? 'correct' : 'incorrect'
-
+        // Gets the current score from the DOM and increments it
         if (classToApply === 'correct') {
             incrementScore(SCORE_POINTS)
         }
