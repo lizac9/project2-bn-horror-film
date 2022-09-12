@@ -1,1 +1,1 @@
-[live](https://lizac9.github.io/project2-bn-horror-film/)
+[View the Live Project here](https://lizac9.github.io/project2-bn-horror-film/)
