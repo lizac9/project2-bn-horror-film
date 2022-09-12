@@ -16,6 +16,7 @@ h1 {
     font-size: 5.4rem;
     color: black;
     margin-bottom: 5rem;
+    margin-top: 1rem;
     font-family: 'Bigelow Rules', sans-serif;
     text-align: center;
 
@@ -169,7 +170,7 @@ body {
     width: 20rem;
     height: 3rem;
     border: 0.2rem solid green;
-    margin-top: 2rem;
+    margin-top: 1rem;
     border-radius: 50px;
     overflow: hidden;
 }
@@ -179,7 +180,21 @@ body {
     background: green;
     width: 0%;
 }
+/* Progress Text and score */
 
+#progressText{
+    margin-top: 5rem;
+}
+
+.hud-prefix{
+    margin-top: 5rem;
+}
+
+#finalScore{
+    padding-top: 2rem;
+    margin-top: 3rem;
+    margin-bottom: 0rem;
+}
 /*Media queries game */
 
 @media screen and (max-width: 600px) {
