@@ -12,8 +12,7 @@ let availableQuestions = [];
 
 /* Questions */
 
-let questions = [
-    {
+let questions = [{
         question: 'Which famous director brought us the 1968 horror film "Hour of the Wolf"?',
         choice1: 'Richard Linklater',
         choice2: 'Ingmar Bergman',
@@ -58,7 +57,7 @@ startGame = () => {
 }
 
 getNewQuestion = () => {
-    if(availableQuestions.length === 0 || questionCounter > MAX_QUESTIONS) {
+    if (availableQuestions.length === 0 || questionCounter > MAX_QUESTIONS) {
         localStorage.setItem('mostRecentScore', score)
 
         return window.location.assign('/end.html')
@@ -108,8 +107,8 @@ choices.forEach(choice => {
 })
 
 incrementScore = num => {
-    score +=num
-    scoreText.innerText = score 
+    score += num
+    scoreText.innerText = score
 }
 
 startGame()
