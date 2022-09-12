@@ -44,10 +44,18 @@ let questions = [{
         choice4: 'Priest',
         answer: '1',
     },
+    {
+        question: 'Which one of these is a black and white horror film written and directed by a woman?',
+        choice1: 'Draculas Daughter (1936)',
+        choice2: 'A Girl Walks Home Alone at Night (2014)',
+        choice3: 'Smithereens (1982)',
+        choice4: 'Morvern Callar (2002)',
+        answer: '2',
+    },
 ]
 
 const SCORE_POINTS = 100;
-const MAX_QUESTIONS = 4;
+const MAX_QUESTIONS = 5;
 
 startGame = () => {
     questionCounter = 0;
