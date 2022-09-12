@@ -103,6 +103,11 @@ h2 {
     margin-left: 1rem;
 }
 
+.fa-floppy-disk {
+    font-size: 2.5rem;
+    margin-left: 1rem;
+}
+
 /* Game Styling */
 
 body {
@@ -180,21 +185,23 @@ body {
     background: green;
     width: 0%;
 }
+
 /* Progress Text and score */
 
-#progressText{
+#progressText {
     margin-top: 5rem;
 }
 
-.hud-prefix{
+.hud-prefix {
     margin-top: 5rem;
 }
 
-#finalScore{
+#finalScore {
     padding-top: 2rem;
     margin-top: 3rem;
     margin-bottom: 0rem;
 }
+
 /*Media queries game */
 
 @media screen and (max-width: 600px) {
