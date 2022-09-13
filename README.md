@@ -29,16 +29,17 @@
 ## List of Features:
 ### Existing Features:
 
-### UI/UX:
-
-#### **Colour Scheme:**
-- 
-
-#### **Typography:**
-- 
 
 [Back to Top](#black--white-horror-film-quiz)
 
+## UI/UX:
+### Site Goals:
+
+### Desing Choices:
+#### **Colour Scheme:**
+- 
+#### **Typography:**
+- 
 
 
 [Back to Top](#black--white-horror-film-quiz)
