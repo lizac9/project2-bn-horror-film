@@ -19,7 +19,6 @@
   + Testing User Stories
   + [Debugging](#debugging)
 + [Deployment](#deployment)
-  + [Commits](#commits)
 + [Credits](#credits)
   + [Content](#content)
   + [Code](#code)
