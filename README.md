@@ -10,8 +10,8 @@
   + [Design choices](#desing-choices)
     + [Typography](#typography)
     + [Colour Scheme](#colour-scheme)
-  + User stories
-  + Wireframes
+  + [User stories](#user-stories)
+  + [Wireframes](#wireframes)
 + [Technologies Used](#technologies-used)
   + [Languages Used](#languages-used)
 + [Frameworks, Libraries & Programs Used](#frameworks-libraries--programs-used)
@@ -32,7 +32,7 @@
 
 #### **Home section:**
  
-This is the first part of the quiz the player will see when visiting. It is designed to allow the player to start playing the quiz with one click. The scores of the previous players can be seen from this window too. There is text describing the quiz in two fonts, the larger font is more stylised and displays the title of the quiz. The smaller font is more discrete and encourages the player to play the game by asking “are you ready to test your knowledge?”. 
+This is the first part of the quiz the player will see when visiting. It is designed to allow the player to start playing the quiz with one click. The scores of the previous players can be seen from this window too. There is text describing the quiz in two fonts, the larger font is more stylised and displays the title of the quiz. The smaller font is more discrete and encourages the player to play the game by asking “Are you ready to test your knowledge?”.
  
 Desktop home page image
 
@@ -76,12 +76,27 @@ The main goal is to test the knowledge of the users about black and white horror
 ### Desing Choices:
 
 #### **Typography:**
-The font ‘Bigelow Rules’ was chosen for the title, which welcomes the user to the game. My decision to use this font was influenced by the font used in the movie “The Nightmare Before Christmas”. It has an association with playful memories of childhood, and it sets a tone for the adventure the user is about to take. The body font is called ‘Wired One’. This font results in a more balanced and clear legibility for the remainder of the game. In the case that one of the other fonts can't be loaded, they will fall back to a sans-serif font.
+The font ‘Bigelow Rules’ was chosen for the title, which welcomes the user to the game. My decision to use this font was influenced by the font used in the movie “The Nightmare Before Christmas”. It has an association with playful memories of childhood, and it sets a tone for the adventure the user is about to take. The body font is called ‘Wire One’. This font results in a more balanced and clear legibility for the remainder of the game. In the case that one of the other fonts can't be loaded, they will fall back to a sans-serif font.
 
 #### **Colour Scheme:**
 
 
 [Back to Top](#black--white-horror-film-quiz)
+
+### User Stories:
+
+- As a user, I want clarity of what I am selecting in a website.
+- As a user, I want balanced neutral tones that don't strain my eyes.
+- As a user, I want education as well as a challenge in a quiz.
+- As a user, I want an easy to navigate interface.
+- As a user, I want the aspect of competition that score based games offer.
+- As a user, I want a clear indication when I choose an incorrect or correct answer.
+- As a user, I want have the choice to personalise my score.
+- As a user, I want to see a leaderboard.
+
+### Wireframes:
+
+To see all the wireframes created in the UX stage click here.
 
 ## Technologies Used
 
@@ -95,7 +110,7 @@ The font ‘Bigelow Rules’ was chosen for the title, which welcomes the user t
 ## Frameworks, Libraries & Programs Used
 
 1. [Google Fonts](https://fonts.google.com/):
-    - Google fonts were used to import the 'IM Fell English' and 'Grenze Gothish' font into the style.css file which is used on all pages throughout the project.
+    - Google fonts were used to import the 'Bigelow Rules' and 'Wire One' font into the style.css file which is used on all pages throughout the project.
 2. [Font Awesome](https://fontawesome.com/):
     - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
 3. [Git](https://git-scm.com/):
