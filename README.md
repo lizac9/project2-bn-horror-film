@@ -3,10 +3,10 @@
 [View the Live Project here](https://lizac9.github.io/project2-bn-horror-film/)
 
 ## Table of Contents
-+ [List of Features]
++ [List of Features](#list-of-features)
   + [Existing Features](#existing-features)
 + [UX/UI](#uiux "UX/UI")
-  + Site Goals
+  + [Site Goals](#site-goals)
   + Design choices
   + User stories
   + Wireframes
@@ -29,11 +29,48 @@
 ## List of Features:
 ### Existing Features:
 
+#### **Home section:**
+ 
+This is the first part of the quiz the player will see when visiting. It is designed to allow the player to start playing the quiz with one click. The scores of the previous players can be seen from this window too. There is text describing the quiz in two fonts, the larger font is more stylised and displays the title of the quiz. The smaller font is more discrete and encourages the player to play the game by asking “are you ready to test your knowledge?”. 
+ 
+Desktop home page image
+
+Mobile home page image
+ 
+#### **Game section:**
+ 
+This section contains the quiz itself. The player is asked to answer 5 questions that are related to classic black and white horror films. Each question is randomly displayed from a list of pre-determined questions created from javascript. For each question, there is a multiple choice of four possible answers (A,B,C or D). There is progress bar that increases when the user is advancing through the questions. The score is displayed in the top right corner of the webpage. 
+
+Desktop questions image
+
+Desktop questions correct answer image
+
+Desktop questions incorrect answer image
+
+Mobile question image
+ 
+#### **End section:**
+ 
+When the player finishes the quiz, a window displaying the total score will appear. Underneath the total score, the player is presented with the option to save their score with their name if they wish. There is also an option to play the game again and another option to return to the home section. 
+ 
+Desktop end page image
+
+Mobile end page image
+ 
+#### **Scores section:**
+ 
+In this webpage the user can see the scores of previous saved games alongside the players chosen name. There is also an option to return to the home page and start the game again if they want to.
+ 
+Desktop Scores page image
+
+Mobile Scores page image
+
 
 [Back to Top](#black--white-horror-film-quiz)
 
 ## UI/UX:
 ### Site Goals:
+The main goal is to test the knowledge of the users about black and white horror films. The interactive elements of this game are easily accessed by the player through a series of interactive boxes containing questions and answers. Each interactive button has a hover feature which allows the player to distinguish which box their cursor is on. Each question is displayed with 4 interactive boxes containing answers. When the player clicks an answer, a color change will occur - green indicates a correct answer and red indicates an incorrect answer. When the player has completed the quiz, an end game page will appear displaying the score. Through this page, users can save their score by entering their name. The option is given to the player to retake the quiz and improve their own personal knowledge.
 
 ### Desing Choices:
 #### **Colour Scheme:**
