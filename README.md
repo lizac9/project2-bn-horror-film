@@ -7,7 +7,9 @@
   + [Existing Features](#existing-features)
 + [UX/UI](#uiux "UX/UI")
   + [Site Goals](#site-goals)
-  + Design choices
+  + [Design choices](#desing-choices)
+    + [Typography](#typography)
+    + [Colour Scheme](#colour-scheme)
   + User stories
   + Wireframes
 + [Technologies Used](#technologies-used)
@@ -72,10 +74,11 @@ Mobile Scores page image
 The main goal is to test the knowledge of the users about black and white horror films. The interactive elements of this game are easily accessed by the player through a series of interactive boxes containing questions and answers. Each interactive button has a hover feature which allows the player to distinguish which box their cursor is on. Each question is displayed with 4 interactive boxes containing answers. When the player clicks an answer, a color change will occur - green indicates a correct answer and red indicates an incorrect answer. When the player has completed the quiz, an end game page will appear displaying the score. Through this page, users can save their score by entering their name. The option is given to the player to retake the quiz and improve their own personal knowledge.
 
 ### Desing Choices:
-#### **Colour Scheme:**
-- 
+
 #### **Typography:**
-- 
+The font ‘Bigelow Rules’ was chosen for the title, which welcomes the user to the game. My decision to use this font was influenced by the font used in the movie “The Nightmare Before Christmas”. It has an association with playful memories of childhood, and it sets a tone for the adventure the user is about to take. The body font is called ‘Wired One’. This font results in a more balanced and clear legibility for the remainder of the game. In the case that one of the other fonts can't be loaded, they will fall back to a sans-serif font.
+
+#### **Colour Scheme:**
 
 
 [Back to Top](#black--white-horror-film-quiz)
