@@ -176,10 +176,23 @@ Quiz based on these films:
 - A Girl Walks Home Alone at Night (2014) Ana Lily Amipour.
 
 #### **Code:**
-- 
-#### **Media:**
-- 
 
+The code that was used in this project was based on my last project. The projects Love Running and Love Math helped to utilise HTML, CSS as well as JavaScript in this project.
+
+External resources relevant to this code:
+- Web Dev simplified: https://www.youtube.com/watch?v=cuEtnrL9-H0
+- Code with Ania Dubów: https://www.youtube.com/watch?v=zgHim4ZDpZY
+- Build a Quiz App - Save High Scores in Local Storage https://youtu.be/DFhmNLKwwGw
+- Bro Code: https://www.youtube.com/watch?v=w9GNyw8AvlM
+- Brian Design https://youtu.be/f4fB9Xg2JEY
+- Code Explained https://youtu.be/49pYIMygIcU
+- Disabling elements: https://alvarotrigo.com/blog/disable-button-javascript/#:~:text=To%20disable%20a%20button%20using,disabled%20JavaScript%20property%20to%20false%20.
+- Box shadow https://www.w3schools.com/cssref/css3_pr_box-shadow.asp
+
+The website w3schools provided many great resources that assisted with problems encountered in this project.
+
+#### **Media:**
+- The image used as the background is a film still from Nosferatu (1922) by Friedrich Wilhelm Murnau.
 
 ## Acknowledgements
 

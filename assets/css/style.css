@@ -25,7 +25,7 @@ h1 {
     margin-top: 1rem;
     font-family: 'Bigelow Rules', sans-serif;
     text-align: center;
-    /*background-color: #ebebeb;*/
+    
 
 }
 
@@ -292,5 +292,5 @@ body {
     margin-bottom: 0.5rem;
     background-color: transparent;
     font-weight: bold;
-    color: #d2d2d2;
+    color: #030303;
 }
