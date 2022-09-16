@@ -215,9 +215,13 @@ body {
 
 /*Media queries game */
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 769px) {
     .choice-container {
         min-width: 20rem;
+    }
+    
+    .container{
+        max-width: 90%;
     }
 
 }
@@ -283,5 +287,7 @@ body {
 .high-score {
     font-size: 3rem;
     margin-bottom: 0.5rem;
+    background-color: #ebebeb;
+    font-weight: bold;
 }
 
