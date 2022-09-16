@@ -10,15 +10,17 @@
     padding: 0;
     font-size: 62.5%;
     font-family: 'Wire One', sans-serif;
-    
+
 }
+
 html {
     background: url(https://res.cloudinary.com/lizac/image/upload/v1663102230/cthulhu_zfuqtc.png) no-repeat center center fixed;
     background-size: cover;
-  }
+}
+
 h1 {
     font-size: 5.4rem;
-    color: black;
+    color: #030303;
     margin-bottom: 5rem;
     margin-top: 1rem;
     font-family: 'Bigelow Rules', sans-serif;
@@ -46,7 +48,7 @@ h3 {
     max-width: 80rem;
     margin: 0 auto;
     padding: 2rem;
-    
+
 }
 
 /* center */
@@ -83,14 +85,14 @@ h3 {
     text-align: center;
     margin-bottom: 1rem;
     text-decoration: none;
-    color: black;
+    color: #030303;
     background-color: #d2d2d2;
     border-radius: 4px;
 }
 
 .btn:hover {
     cursor: pointer;
-    box-shadow: 0 0.4rem 1.4rem 0 black;
+    box-shadow: 0 0.4rem 1.4rem 0 #030303;
     transition: transform 150ms;
     transform: scale(1.03);
 }
@@ -122,7 +124,7 @@ h3 {
 /* Game Styling */
 
 body {
-    color: black;
+    color: #030303;
     font-size: 15rem;
 }
 
@@ -139,7 +141,7 @@ body {
 
 .choice-container:hover {
     cursor: pointer;
-    box-shadow: 0 0.4rem 1.4rem 0 black;
+    box-shadow: 0 0.4rem 1.4rem 0 #030303;
     transition: transform 100ms;
     transform: scale(1.01);
 
@@ -147,7 +149,7 @@ body {
 
 .choice-prefix {
     padding: 2rem 2.5rem;
-    color: black;
+    color: #030303;
 }
 
 .choice-text {
@@ -158,11 +160,11 @@ body {
 /*buttons correct or incorrect choice */
 
 .correct {
-    background-color: green;
+    background-color: #008000;
 }
 
 .incorrect {
-    background-color: red;
+    background-color: #ff0000;
 }
 
 /*Heads up Display*/
@@ -185,7 +187,7 @@ body {
 #progressBar {
     width: 20rem;
     height: 3rem;
-    border: 0.2rem solid green;
+    border: 0.2rem solid #008000;
     margin-top: 1rem;
     border-radius: 50px;
     overflow: hidden;
@@ -193,7 +195,7 @@ body {
 
 #progressBarFull {
     height: 100%;
-    background: green;
+    background: #008000;
     width: 0%;
 }
 
@@ -219,8 +221,8 @@ body {
     .choice-container {
         min-width: 20rem;
     }
-    
-    .container{
+
+    .container {
         max-width: 90%;
     }
 
@@ -243,11 +245,11 @@ input {
     padding: 1.5rem;
     font-size: 3rem;
     border: none;
-    box-shadow: black;
+    box-shadow: 5px 5px 5px 5px #030303;
 }
 
 input::placeholder {
-    color: #aaa;
+    color: #aaaaaa;
 }
 
 #username {
@@ -258,7 +260,7 @@ input::placeholder {
 
 #end-text {
     font-size: 4rem;
-    color: black;
+    color: #030303;
     text-align: center;
 }
 
@@ -276,7 +278,7 @@ input::placeholder {
 /* High Scores Page */
 
 body {
-    color: black;
+    color: #030303;
 }
 
 #highScoresList {
@@ -290,4 +292,3 @@ body {
     background-color: #ebebeb;
     font-weight: bold;
 }
-
