@@ -80,7 +80,7 @@ The font ‘Bigelow Rules’ was chosen for the title, which welcomes the user t
 
 #### **Colour Scheme:**
 
-![Colour Palette](https://res.cloudinary.com/lizac/image/upload/v1663345236/project2-bn-horror-film/palette_p2_vajmdz.jpg)
+![Colour Palette](https://res.cloudinary.com/lizac/image/upload/v1663346333/project2-bn-horror-film/palette_p2_h8qy8c.jpg)
 
 [Back to Top](#black--white-horror-film-quiz)
 
