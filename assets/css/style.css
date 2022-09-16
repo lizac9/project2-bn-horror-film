@@ -14,29 +14,30 @@
 }
 
 html {
-    background: url(https://res.cloudinary.com/lizac/image/upload/v1663102230/cthulhu_zfuqtc.png) no-repeat center center fixed;
+    background: url(https://res.cloudinary.com/lizac/image/upload/v1663359139/project2-bn-horror-film/Black-and-White-Horror-Films-Nosferatu_fbl4fy.webp) no-repeat center center fixed;
     background-size: cover;
 }
 
 h1 {
     font-size: 5.4rem;
-    color: #030303;
+    color: #d2d2d2;
     margin-bottom: 5rem;
     margin-top: 1rem;
     font-family: 'Bigelow Rules', sans-serif;
     text-align: center;
-    background-color: #ebebeb;
+    /*background-color: #ebebeb;*/
 
 }
 
 h2 {
     font-size: 3.2rem;
     margin-bottom: 4rem;
-    background-color: #ebebeb;
+    color: #d2d2d2;
 }
 
 h3 {
-    background-color: #ebebeb;
+    color: #d2d2d2;
+    background-color: transparent;
 }
 
 .container {
@@ -289,6 +290,7 @@ body {
 .high-score {
     font-size: 3rem;
     margin-bottom: 0.5rem;
-    background-color: #ebebeb;
+    background-color: transparent;
     font-weight: bold;
+    color: #d2d2d2;
 }
