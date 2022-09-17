@@ -18,7 +18,7 @@
 + [Testing](#testing)
   + [Validator Testing](#validator-testing)
   + [Manual Testing](#manual-testing)
-  + Testing User Stories
+  + [Testing User Stories](#testing-user-stories)
   + [Debugging](#debugging)
 + [Deployment](#deployment)
 + [Credits](#credits)
@@ -149,6 +149,15 @@ Desktop Pages:
 [Back to Top](#black--white-horror-film-quiz)
 
 #### **Testing User Stories:**
+Results:
+- As a user, the interactive buttons highlight when my cursor is above them.
+- As a user, the balanced neutral tones of the website do not strain my eyes.
+- As a user, the selection of questions introduce me to trivia and new film titles.
+- As a user, the linear and consistent webpage is easy to navigate. 
+- As a user, there is an aspect of competition through the games score and leaderboard system.
+- As a user, I can see the visible colour changes that indicate correct or incorrect answers. 
+- As a user, I am free to type whatever I choose in the text box accompanying my score.
+- As a user, I can click the scoreboard icon to view the leaderboard.
 
 #### **Debugging:**
 
