@@ -193,6 +193,8 @@ The website w3schools provided many great resources that assisted with problems 
 
 #### **Media:**
 - The image used as the background is a film still from Nosferatu (1922) by Friedrich Wilhelm Murnau.
+- The favicon came from [Favicon](https://favicon.io/).
+- The colour palette was displayed by [Coolors](https://coolors.co/030303-aaaaaa-d2d2d2-ebebeb-ffffff).
 
 ## Acknowledgements
 

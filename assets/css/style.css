@@ -25,19 +25,21 @@ h1 {
     margin-top: 1rem;
     font-family: 'Bigelow Rules', sans-serif;
     text-align: center;
+    text-shadow: 2px 2px #030303;
     
-
 }
 
 h2 {
     font-size: 3.2rem;
     margin-bottom: 4rem;
     color: #d2d2d2;
+    text-shadow: 1px 1px #030303;
 }
 
 h3 {
     color: #d2d2d2;
     background-color: transparent;
+    text-shadow: 1px 1px #030303;
 }
 
 .container {
@@ -188,7 +190,7 @@ body {
 #progressBar {
     width: 20rem;
     height: 3rem;
-    border: 0.2rem solid #008000;
+    border: 0.2rem solid #030303;
     margin-top: 1rem;
     border-radius: 50px;
     overflow: hidden;
@@ -196,7 +198,7 @@ body {
 
 #progressBarFull {
     height: 100%;
-    background: #008000;
+    background: #aaaaaa;
     width: 0%;
 }
 
@@ -263,6 +265,7 @@ input::placeholder {
     font-size: 4rem;
     color: #030303;
     text-align: center;
+    text-shadow: none;
 }
 
 #saveScoreBtn {
