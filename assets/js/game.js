@@ -31,7 +31,7 @@ let questions = [{
         answer: '3',
     },
     {
-        question: 'What is the name for the monster in the 1954 monster movie "Creature From the Black Lagoon"?',
+        question: 'What is the name for the monster in the 1954 movie "Creature From the Black Lagoon"?',
         choice1: 'Godzilla',
         choice2: 'Gog',
         choice3: 'Golem',
