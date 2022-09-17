@@ -32,7 +32,7 @@
 
 #### **Home section:**
  
-This is the first part of the quiz the player will see when visiting. It is designed to allow the player to start playing the quiz with one click. The scores of the previous players can be seen from this window too. There is text describing the quiz in two fonts, the larger font is more stylised and displays the title of the quiz. The smaller font is more discrete and encourages the player to play the game by asking “Are you ready to test your knowledge?”.
+This is the first part of the quiz the player will see when visiting. It is designed to allow the player to start playing the quiz with one click. The scores of the previous players can be seen from this window too. There is text describing the quiz in two fonts, the larger font is more stylised and displays the title of the quiz. The smaller font is more discrete and encourages the player to play the game by asking *“Are you ready to test your knowledge?”.*
  
 Desktop home page image
 
@@ -147,6 +147,8 @@ Desktop Pages:
 #### **Manual Testing:**
 
 [Back to Top](#black--white-horror-film-quiz)
+
+#### **Testing User Stories:**
 
 #### **Debugging:**
 
