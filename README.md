@@ -145,6 +145,16 @@ Desktop Pages:
 [Back to Top](#black--white-horror-film-quiz)
 
 #### **Manual Testing:**
+|  Feature | Expectation | Action | Result|
+|-------------------------------|------------------------------------------------------------------------------------------------------------|---------------------------------------|------------------------------------------------------------------|
+| **Play Button** | Game page will open when clicked | Click Play Icon | Game page opened when clicked |
+| **Answer Button** | The button of the answer selected will turn red for incorrect or green for correct when clicked | Click Answer Button | The answer will turn out the respective color and next question opened when clicked |
+| **Enter your name field** | If the text box is left blank, the user can't save the score | Incomplete form | The text does not submit and is the score is not saved|
+| **Save button** | The save submit button can be press if the user entered their name | Name and score saved | Name and score saved in Players Scores
+| **Play Again Button** | Game page will open when clicked | Click Play Again Icon | Game page opened when clicked |
+| **Home Button** | To go to Home page | Click on Home icon | Home page opened when clicked|
+| **Scores Button** | The Players Scores will open when clicked | Click Scores button | Taken to Players Scores page |
+| **Go Home Button** | To go to Home page | Click on Home icon | Home page opened when clicked|
 
 [Back to Top](#black--white-horror-film-quiz)
 
