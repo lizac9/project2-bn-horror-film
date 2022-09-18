@@ -34,53 +34,45 @@
  
 This is the first part of the quiz the player will see when visiting. It is designed to allow the player to start playing the quiz with one click. The scores of the previous players can be seen from this window too. There is text describing the quiz in two fonts, the larger font is more stylised and displays the title of the quiz. The smaller font is more discrete and encourages the player to play the game by asking *“Are you ready to test your knowledge?”.*
  
-<details><summary><b>Home page image</b></summary>
+<details><summary>Home page image</summary>
 
 ![Home page image](https://res.cloudinary.com/lizac/image/upload/v1663529216/project2-bn-horror-film/Home_page_image_hvthha.jpg)
 </details>
-
 <br />
 
- 
 #### **Game section:**
  
 This section contains the quiz itself. The player is asked to answer 5 questions that are related to classic black and white horror films. Each question is randomly displayed from a list of pre-determined questions created from javascript. For each question, there is a multiple choice of four possible answers (A,B,C or D). There is progress bar that increases when the user is advancing through the questions. The score is displayed in the top right corner of the webpage. 
 
-<details><summary><b>Game page image</b></summary>
+<details><summary>Game page image</summary>
 
 ![Game page image](https://res.cloudinary.com/lizac/image/upload/v1663529620/project2-bn-horror-film/Game_page_image_ma7ek9.jpg)
 </details>
 
-<br />
-<details><summary><b>Wrong question example image</b></summary>
+<details><summary>Wrong question example image</summary>
 
 ![Wrong question example image](https://res.cloudinary.com/lizac/image/upload/v1663529968/project2-bn-horror-film/red_question_yoweqx.jpg)
 </details>
+ <br />
 
-<br />
- 
 #### **End section:**
  
 When the player finishes the quiz, a window displaying the total score will appear. Underneath the total score, the player is presented with the option to save their score with their name if they wish. There is also an option to play the game again and another option to return to the home section. 
  
-<details><summary><b>End page image</b></summary>
+<details><summary>End page image</summary>
 
 ![End page image](https://res.cloudinary.com/lizac/image/upload/v1663530609/project2-bn-horror-film/end_page_image_tuqenf.jpg)
 </details>
-
 <br />
- 
+
 #### **Scores section:**
  
 In this webpage the user can see the scores of previous saved games alongside the players chosen name. There is also an option to return to the home page and start the game again if they want to.
  
-<details><summary><b>Scores page image</b></summary>
+<details><summary>Scores page image</summary>
 
 ![Scores page image](https://res.cloudinary.com/lizac/image/upload/v1663530809/project2-bn-horror-film/scores_revnk8.jpg)
 </details>
-
-<br />
-
 
 [Back to Top](#black--white-horror-film-quiz)
 
