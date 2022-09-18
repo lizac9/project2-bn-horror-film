@@ -1,7 +1,7 @@
 # Black & White Horror Film Quiz
 
 [View the Live Project here](https://lizac9.github.io/project2-bn-horror-film/)
-
+![Home page image](https://res.cloudinary.com/lizac/image/upload/v1663529216/project2-bn-horror-film/Home_page_image_hvthha.jpg)
 ## Table of Contents
 + [List of Features](#list-of-features)
   + [Existing Features](#existing-features)
@@ -34,37 +34,52 @@
  
 This is the first part of the quiz the player will see when visiting. It is designed to allow the player to start playing the quiz with one click. The scores of the previous players can be seen from this window too. There is text describing the quiz in two fonts, the larger font is more stylised and displays the title of the quiz. The smaller font is more discrete and encourages the player to play the game by asking *“Are you ready to test your knowledge?”.*
  
-Desktop home page image
+<details><summary><b>Home page image</b></summary>
 
-Mobile home page image
+![Home page image](https://res.cloudinary.com/lizac/image/upload/v1663529216/project2-bn-horror-film/Home_page_image_hvthha.jpg)
+</details>
+
+<br />
+
  
 #### **Game section:**
  
 This section contains the quiz itself. The player is asked to answer 5 questions that are related to classic black and white horror films. Each question is randomly displayed from a list of pre-determined questions created from javascript. For each question, there is a multiple choice of four possible answers (A,B,C or D). There is progress bar that increases when the user is advancing through the questions. The score is displayed in the top right corner of the webpage. 
 
-Desktop questions image
+<details><summary><b>Game page image</b></summary>
 
-Desktop questions correct answer image
+![Game page image](https://res.cloudinary.com/lizac/image/upload/v1663529620/project2-bn-horror-film/Game_page_image_ma7ek9.jpg)
+</details>
 
-Desktop questions incorrect answer image
+<br />
+<details><summary><b>Wrong question example image</b></summary>
 
-Mobile question image
+![Wrong question example image](https://res.cloudinary.com/lizac/image/upload/v1663529968/project2-bn-horror-film/red_question_yoweqx.jpg)
+</details>
+
+<br />
  
 #### **End section:**
  
 When the player finishes the quiz, a window displaying the total score will appear. Underneath the total score, the player is presented with the option to save their score with their name if they wish. There is also an option to play the game again and another option to return to the home section. 
  
-Desktop end page image
+<details><summary><b>End page image</b></summary>
 
-Mobile end page image
+![End page image](https://res.cloudinary.com/lizac/image/upload/v1663530609/project2-bn-horror-film/end_page_image_tuqenf.jpg)
+</details>
+
+<br />
  
 #### **Scores section:**
  
 In this webpage the user can see the scores of previous saved games alongside the players chosen name. There is also an option to return to the home page and start the game again if they want to.
  
-Desktop Scores page image
+<details><summary><b>Scores page image</b></summary>
 
-Mobile Scores page image
+![Scores page image](https://res.cloudinary.com/lizac/image/upload/v1663530809/project2-bn-horror-film/scores_revnk8.jpg)
+</details>
+
+<br />
 
 
 [Back to Top](#black--white-horror-film-quiz)
@@ -131,16 +146,20 @@ To see all the wireframes created in the UX stage click here.
 
 #### **Validator Testing:**
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
-- [W3C Markup Validator - Results]
-- [W3C CSS Validator - Results]
-- JShint
+- W3C Markup Validator - Results:
+![W3C Markup Validator - Results](https://res.cloudinary.com/lizac/image/upload/v1663531180/project2-bn-horror-film/validator_html_qn2hro.jpg)
+- W3C CSS Validator - [Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Flizac9.github.io%2Fproject2-bn-horror-film%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en):
+![W3C CSS Validator](https://res.cloudinary.com/lizac/image/upload/v1663531514/project2-bn-horror-film/w3c_css_validator_bqcxlm.jpg)
+
+- [JShint](https://jshint.com/)
 
 The website was also tested through Lighthouse on Chrome for its Accessibility Score.
 
-Mobile Pages:
+Lighthouse Mobile report:
+![Lighthouse Mobile report](https://res.cloudinary.com/lizac/image/upload/v1663533087/project2-bn-horror-film/Mobile_Lighthouse_ptcnnr.jpg)
 
-Desktop Pages:
-
+Lighthouse Desktop report:
+![Lighthouse Desktop report](https://res.cloudinary.com/lizac/image/upload/v1663533077/project2-bn-horror-film/Desktop_Lighthouse_k2mdcw.jpg)
 
 [Back to Top](#black--white-horror-film-quiz)
 
@@ -214,6 +233,8 @@ The website w3schools provided many great resources that assisted with problems 
 
 #### **Media:**
 - The image used as the background is a film still from Nosferatu (1922) by Friedrich Wilhelm Murnau.
+![Film still](https://res.cloudinary.com/lizac/image/upload/v1663359139/project2-bn-horror-film/Black-and-White-Horror-Films-Nosferatu_fbl4fy.webp)
+
 - The favicon came from [Favicon](https://favicon.io/).
 - The colour palette was displayed by [Coolors](https://coolors.co/030303-aaaaaa-d2d2d2-ebebeb-ffffff).
 
