@@ -5,6 +5,7 @@
 ## Table of Contents
 + [List of Features](#list-of-features)
   + [Existing Features](#existing-features)
+  + Future Features
 + [UX/UI](#uiux "UX/UI")
   + [Site Goals](#site-goals)
   + [Design choices](#desing-choices)
@@ -37,8 +38,7 @@ This is the first part of the quiz the player will see when visiting. It is desi
 <details><summary>Home page image</summary>
 
 ![Home page image](https://res.cloudinary.com/lizac/image/upload/v1663529216/project2-bn-horror-film/Home_page_image_hvthha.jpg)
-</details>
-<br />
+</details> <br />
 
 #### **Game section:**
  
@@ -52,8 +52,7 @@ This section contains the quiz itself. The player is asked to answer 5 questions
 <details><summary>Wrong question example image</summary>
 
 ![Wrong question example image](https://res.cloudinary.com/lizac/image/upload/v1663529968/project2-bn-horror-film/red_question_yoweqx.jpg)
-</details>
- <br />
+</details><br />
 
 #### **End section:**
  
@@ -62,8 +61,7 @@ When the player finishes the quiz, a window displaying the total score will appe
 <details><summary>End page image</summary>
 
 ![End page image](https://res.cloudinary.com/lizac/image/upload/v1663530609/project2-bn-horror-film/end_page_image_tuqenf.jpg)
-</details>
-<br />
+</details><br />
 
 #### **Scores section:**
  
@@ -73,6 +71,10 @@ In this webpage the user can see the scores of previous saved games alongside th
 
 ![Scores page image](https://res.cloudinary.com/lizac/image/upload/v1663530809/project2-bn-horror-film/scores_revnk8.jpg)
 </details>
+
+<details><summary>Players Scores Example</summary>
+
+![Players scores image](https://res.cloudinary.com/lizac/image/upload/v1663584923/project2-bn-horror-film/playersscores_zc0sg1.jpg)</details> <br />
 
 [Back to Top](#black--white-horror-film-quiz)
 
