@@ -97,7 +97,7 @@ The font ‘Bigelow Rules’ was chosen for the title, which welcomes the user t
 #### **Colour Scheme:**
 
 ![Colour Palette](https://res.cloudinary.com/lizac/image/upload/v1663346333/project2-bn-horror-film/palette_p2_h8qy8c.jpg)
-The webpage is designed to reference black and white film as much as possible while maintaining legibility and balance throughout. The text is coloured white so that it appears dynamic when placed in front of the background image. The text is displayed in a soft white as opposed to a default bright white in order to prevent eyestrain.
+The webpage is designed to reference black and white film as much as possible while maintaining legibility and balance throughout. The text is coloured white so that it appears dynamic when placed in front of the background image. The text is displayed in a light gray as opposed to a default bright white in order to prevent eyestrain.
 
 [Back to Top](#black--white-horror-film-quiz)
 
