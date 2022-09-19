@@ -5,7 +5,7 @@
 ## Table of Contents
 + [List of Features](#list-of-features)
   + [Existing Features](#existing-features)
-  + Future Features
+  + [Future Features](#future-features)
 + [UX/UI](#uiux "UX/UI")
   + [Site Goals](#site-goals)
   + [Design choices](#desing-choices)
@@ -75,6 +75,11 @@ In this webpage the user can see the scores of previous saved games alongside th
 <details><summary>Players Scores Example</summary>
 
 ![Players scores image](https://res.cloudinary.com/lizac/image/upload/v1663584923/project2-bn-horror-film/playersscores_zc0sg1.jpg)</details> <br />
+
+### Future Features:
+- After each answer, a text box will appear to provide more info about the film.
+- A moving image background similar to the website for the [Criterion Collection](https://www.criterion.com/), will play behind the quiz.
+- Additional questions and images relating to the films will be added.
 
 [Back to Top](#black--white-horror-film-quiz)
 
