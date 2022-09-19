@@ -20,7 +20,9 @@
   + [Validator Testing](#validator-testing)
   + [Manual Testing](#manual-testing)
   + [Testing User Stories](#testing-user-stories)
+  + [Browser Compatibility](#browser-compatibility)
   + [Debugging](#debugging)
+  + [Unfixed Bugs](#unfixed-bugs)
 + [Deployment](#deployment)
 + [Credits](#credits)
   + [Content](#content)
@@ -95,6 +97,7 @@ The font ‘Bigelow Rules’ was chosen for the title, which welcomes the user t
 #### **Colour Scheme:**
 
 ![Colour Palette](https://res.cloudinary.com/lizac/image/upload/v1663346333/project2-bn-horror-film/palette_p2_h8qy8c.jpg)
+The webpage is designed to reference black and white film as much as possible while maintaining legibility and balance throughout. The text is coloured white so that it appears dynamic when placed in front of the background image. The text is displayed in a soft white as opposed to a default bright white in order to prevent eyestrain.
 
 [Back to Top](#black--white-horror-film-quiz)
 
@@ -139,6 +142,8 @@ Wireframes created in the UX stage:
     - This application was used for visualization of responsiveness.
 7. [Cloudinary](https://cloudinary.com/):
     - Cloudinary was used to store and link the images.
+8. [Canva](https://canva.com/):
+    - Canva was used for final details on the images.
 
 [Back to Top](#black--white-horror-film-quiz)
 
@@ -157,7 +162,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 I could change this using -let-, but this would result in future changes and errors in the code. I did not have the timeframe to deal with all of these additional changes. These undefined variables don't affect the functionality of the game at all, and would result in unnecessary use of the clients resources. 
 
-The website was also tested through Lighthouse on Chrome for its Accessibility Score.
+The website was tested through Lighthouse on Chrome for its Accessibility Score.
 
 Lighthouse Mobile report:
 ![Lighthouse Mobile report](https://res.cloudinary.com/lizac/image/upload/v1663533087/project2-bn-horror-film/Mobile_Lighthouse_ptcnnr.jpg)
@@ -165,7 +170,7 @@ Lighthouse Mobile report:
 Lighthouse Desktop report:
 ![Lighthouse Desktop report](https://res.cloudinary.com/lizac/image/upload/v1663533077/project2-bn-horror-film/Desktop_Lighthouse_k2mdcw.jpg)
 
-Also the website was tested for Color Contrast in the Color Contrast Accessibility Validator and no automated color contrast issues was found on the webpage tested.
+The website was also tested for Color Contrast in the Color Contrast Accessibility Validator and no automated color contrast issues was found on the webpage tested.
 ![Color Contrast](https://res.cloudinary.com/lizac/image/upload/v1663613268/project2-bn-horror-film/color_contrast_qqnjf2.png)
 
 [Back to Top](#black--white-horror-film-quiz)
@@ -195,8 +200,8 @@ Results:
 - As a user, I am free to type whatever I choose in the text box accompanying my score.
 - As a user, I can click the scoreboard icon to view the leaderboard.
 
-#### Browser Compatibility:
-The website has had manual and responsive tests conducted on the below browsers and I was presented with no issues.
+#### **Browser Compatibility:**
+The website has had manual and responsive tests conducted on the below browsers and no errors were detected.
 - Google Chrome
 - Microsoft Edge
 - Safari
@@ -206,10 +211,10 @@ The website has had manual and responsive tests conducted on the below browsers 
 
 Initially, the project presented problems in the deployment phase. An unstable internet connection resulted in preventing the project deploying properly. Due to this, it had to be deployed again, first from a none branch and then again to the main one. I waited ten minutes before the project was fully deployed.
 
-Unfixed Bugs:
+#### **Unfixed Bugs:**
 
-There are some undefined variables in the js files, but don't affect the functionality of the game. 
-Due to the size of the games interface, the user may need to scroll down in order to view the lower text buttons. However, considering this incovenience, the game is still entirely accessible through all portable devices. 
+- There are some undefined variables in the js files, but don't affect the functionality of the game. 
+- Due to the size of the games interface, the user may need to scroll down in order to view the lower text buttons. However, considering this incovenience, the game is still entirely accessible through all portable devices. 
 
 
 ## Deployment
@@ -237,19 +242,19 @@ Quiz based on these films:
 
 #### **Code:**
 
-The code that was used in this project was based on my last project. The projects Love Running and Love Math helped to utilise HTML, CSS as well as JavaScript in this project.
+The code that was used in this project was based on [my last project](https://github.com/lizac9/project1-glasgow-necropolis). The projects Love Running and [Love Math](https://github.com/lizac9/love-maths) helped to utilise HTML, CSS as well as JavaScript in this project.
 
 External resources relevant to this code:
-- Web Dev simplified: https://www.youtube.com/watch?v=cuEtnrL9-H0
-- Code with Ania Dubów: https://www.youtube.com/watch?v=zgHim4ZDpZY
-- Build a Quiz App - Save High Scores in Local Storage https://youtu.be/DFhmNLKwwGw
-- Bro Code: https://www.youtube.com/watch?v=w9GNyw8AvlM
-- Brian Design https://youtu.be/f4fB9Xg2JEY
-- Code Explained https://youtu.be/49pYIMygIcU
-- Disabling elements: https://alvarotrigo.com/blog/disable-button-javascript/#:~:text=To%20disable%20a%20button%20using,disabled%20JavaScript%20property%20to%20false%20.
-- Box shadow https://www.w3schools.com/cssref/css3_pr_box-shadow.asp
+- [Web Dev simplified](https://youtu.be/riDzcEQbX6k)
+- [Disabling elements](https://alvarotrigo.com/blog/disable-button-javascript/#:~:text=To%20disable%20a%20button%20using,disabled%20JavaScript%20property%20to%20false%20)
+- [Trivia App in JavaScript](https://youtu.be/zgHim4ZDpZY)
+- [Build a Quiz App - Save High Scores in Local Storage](https://youtu.be/DFhmNLKwwGw)
+- [JavaScript user input](https://youtu.be/w9GNyw8AvlM)
+- [How to Make a Quiz App](https://youtu.be/f4fB9Xg2JEY)
+- [Create a Multiple Choice Quiz App Using JavaScript](https://youtu.be/49pYIMygIcU)
+- [Box shadow](https://www.w3schools.com/cssref/css3_pr_box-shadow.asp)
 
-The website w3schools provided many great resources that assisted with problems encountered in this project.
+The website [w3schools](https://www.w3schools.com/) provided many great resources that assisted with problems encountered in this project.
 
 #### **Media:**
 - The image used as the background is a film still from Nosferatu (1922) by Friedrich Wilhelm Murnau.
