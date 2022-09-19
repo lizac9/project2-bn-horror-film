@@ -156,7 +156,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 - W3C CSS Validator - [Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Flizac9.github.io%2Fproject2-bn-horror-film%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en):
 ![W3C CSS Validator](https://res.cloudinary.com/lizac/image/upload/v1663531514/project2-bn-horror-film/w3c_css_validator_bqcxlm.jpg)
 
-- Each of the JavaScript files were tested in [JShint](https://jshint.com/) As the images show, there are a few variables undefined in game.js file, one unused and another undefined variable in end.js file and there is no errors in the highscore.js file. <details><summary>JShint images</summary>
+- Each of the JavaScript files were tested in [JShint](https://jshint.com/). As the images show, there are a few variables undefined in game.js file, one unused and another undefined variable in end.js file and there is no errors in the highscore.js file. <details><summary>JShint images</summary>
 ![JShint](https://res.cloudinary.com/lizac/image/upload/v1663616048/project2-bn-horror-film/highscores.js_h2ujgk.png)
 </details>
 
@@ -171,7 +171,10 @@ Lighthouse Desktop report:
 ![Lighthouse Desktop report](https://res.cloudinary.com/lizac/image/upload/v1663533077/project2-bn-horror-film/Desktop_Lighthouse_k2mdcw.jpg)
 
 The website was also tested for Color Contrast in the Color Contrast Accessibility Validator and no automated color contrast issues was found on the webpage tested.
+<details><summary>Color Contrast Accessibility Validator Image</summary>
+
 ![Color Contrast](https://res.cloudinary.com/lizac/image/upload/v1663613268/project2-bn-horror-film/color_contrast_qqnjf2.png)
+</details>
 
 [Back to Top](#black--white-horror-film-quiz)
 
