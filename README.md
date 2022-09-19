@@ -111,7 +111,8 @@ The font ‘Bigelow Rules’ was chosen for the title, which welcomes the user t
 
 ### Wireframes:
 
-To see all the wireframes created in the UX stage click here.
+Wireframes created in the UX stage:
+![Wireframes](https://res.cloudinary.com/lizac/image/upload/v1663607561/project2-bn-horror-film/Wireframes_2_dfaeu1.png)
 
 ## Technologies Used
 
