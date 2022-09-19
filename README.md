@@ -151,7 +151,11 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 - W3C CSS Validator - [Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Flizac9.github.io%2Fproject2-bn-horror-film%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en):
 ![W3C CSS Validator](https://res.cloudinary.com/lizac/image/upload/v1663531514/project2-bn-horror-film/w3c_css_validator_bqcxlm.jpg)
 
-- [JShint](https://jshint.com/)
+- Each of the JavaScript files were tested in [JShint](https://jshint.com/) As the images show, there are a few variables undefined in game.js file, one unused and another undefined variable in end.js file and there is no errors in the highscore.js file. <details><summary>JShint images</summary>
+![JShint](https://res.cloudinary.com/lizac/image/upload/v1663616048/project2-bn-horror-film/highscores.js_h2ujgk.png)
+</details>
+
+I could change this using -let-, but this would result in future changes and errors in the code. I did not have the timeframe to deal with all of these additional changes. These undefined variables don't affect the functionality of the game at all, and would result in unnecessary use of the clients resources. 
 
 The website was also tested through Lighthouse on Chrome for its Accessibility Score.
 
@@ -160,6 +164,9 @@ Lighthouse Mobile report:
 
 Lighthouse Desktop report:
 ![Lighthouse Desktop report](https://res.cloudinary.com/lizac/image/upload/v1663533077/project2-bn-horror-film/Desktop_Lighthouse_k2mdcw.jpg)
+
+Also the website was tested for Color Contrast in the Color Contrast Accessibility Validator and no automated color contrast issues was found on the webpage tested.
+![Color Contrast](https://res.cloudinary.com/lizac/image/upload/v1663613268/project2-bn-horror-film/color_contrast_qqnjf2.png)
 
 [Back to Top](#black--white-horror-film-quiz)
 
@@ -188,8 +195,21 @@ Results:
 - As a user, I am free to type whatever I choose in the text box accompanying my score.
 - As a user, I can click the scoreboard icon to view the leaderboard.
 
+#### Browser Compatibility:
+The website has had manual and responsive tests conducted on the below browsers and I was presented with no issues.
+- Google Chrome
+- Microsoft Edge
+- Safari
+- Firefox
+
 #### **Debugging:**
 
+Initially, the project presented problems in the deployment phase. An unstable internet connection resulted in preventing the project deploying properly. Due to this, it had to be deployed again, first from a none branch and then again to the main one. I waited ten minutes before the project was fully deployed.
+
+Unfixed Bugs:
+
+There are some undefined variables in the js files, but don't affect the functionality of the game. 
+Due to the size of the games interface, the user may need to scroll down in order to view the lower text buttons. However, considering this incovenience, the game is still entirely accessible through all portable devices. 
 
 
 ## Deployment
