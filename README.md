@@ -234,14 +234,14 @@ The project was deployed to GitHub Pages using the following steps:
 #### **Content:**
 Quiz based on these films:
 
-- The Cabinet of Dr Caligari (1920) by Robert Wine.
+- The Cabinet of Dr Caligari (1920) by Robert Wiene.
 - Draculas’s Daughter (1936) by Lambert Hillyer.
 - Creature from the Black Lagoon (1954) by Jack Arnold.
 - Carnival of Souls (1962) by Herk Harvey.
 - Hour of the Wolf (1968) by Ingmar Bergman.
 - Smithereens (1982) by Susan Seidelman.
 - Morvern Callar (2002) by Lynne Ramsay.
-- A Girl Walks Home Alone at Night (2014) Ana Lily Amipour.
+- A Girl Walks Home Alone at Night (2014) by Ana Lily Amipour.
 
 #### **Code:**
 
