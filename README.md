@@ -108,7 +108,7 @@ The font ‘Bigelow Rules’ was chosen for the title, which welcomes the user t
 #### **Colour Scheme:**
 
 ![Colour Palette](https://res.cloudinary.com/lizac/image/upload/v1663346333/project2-bn-horror-film/palette_p2_h8qy8c.jpg)
-The webpage is designed to reference black and white film as much as possible while maintaining legibility and balance throughout. The proggres bar is coloured silver chalice so that it appears dynamic when placed in front of the background image. The text is displayed in a light gray as opposed to a default bright white in order to prevent eyestrain.
+The webpage is designed to reference black and white film as much as possible while maintaining legibility and balance throughout. The progress bar is coloured silver chalice so that it appears dynamic when placed in front of the background image. The text is displayed in a light gray as opposed to a default bright white in order to prevent eyestrain.
 
 [Back to Top](#black--white-horror-film-quiz)
 
@@ -171,7 +171,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 ![JShint](https://res.cloudinary.com/lizac/image/upload/v1663616048/project2-bn-horror-film/highscores.js_h2ujgk.png)
 </details>
 
-I could change this using -let-, but this would result in future changes and errors in the code. I did not have the timeframe to deal with all of these additional changes. These undefined variables don't affect the functionality of the game at all, and would result in unnecessary use of the clients resources. 
+I could change this using -let-, but this would result in future changes and errors in the code. I did not have the timeframe to deal with all of these additional changes. These undefined variables don't affect the functionality of the game at all, fixing them would result in unnecessary use of the clients resources. 
 
 The website was tested through Lighthouse on Chrome for its Accessibility Score.
 
@@ -181,7 +181,7 @@ Lighthouse Mobile report:
 Lighthouse Desktop report:
 ![Lighthouse Desktop report](https://res.cloudinary.com/lizac/image/upload/v1663533077/project2-bn-horror-film/Desktop_Lighthouse_k2mdcw.jpg)
 
-The website was also tested for Color Contrast in the Color Contrast Accessibility Validator and no automated color contrast issues was found on the webpage tested.
+The website was also tested for Color Contrast in the Color Contrast Accessibility Validator and no automated color contrast issues were found on the webpage.
 <details><summary>Color Contrast Accessibility Validator Image</summary>
 
 ![Color Contrast](https://res.cloudinary.com/lizac/image/upload/v1663613268/project2-bn-horror-film/color_contrast_qqnjf2.png)
@@ -195,7 +195,7 @@ The website was also tested for Color Contrast in the Color Contrast Accessibili
 | **Play Button** | Game page will open when clicked | Click Play Icon | Game page opened when clicked |
 | **Answer Button** | The button of the answer selected will turn red for incorrect or green for correct when clicked | Click Answer Button | The answer will turn out the respective color and next question opened when clicked |
 | **Enter your name field** | If the text box is left blank, the user can't save the score | Incomplete form | The text does not submit and is the score is not saved|
-| **Save button** | The save submit button can be press if the user entered their name | Name and score saved | Name and score saved in Players Scores
+| **Save button** | The save submit button can be clicked if the user entered their name | Name and score saved | Name and score saved in Players Scores
 | **Play Again Button** | Game page will open when clicked | Click Play Again Icon | Game page opened when clicked |
 | **Home Button** | To go to Home page | Click on Home icon | Home page opened when clicked|
 | **Scores Button** | The Players Scores will open when clicked | Click Scores button | Taken to Players Scores page |
@@ -227,7 +227,7 @@ Initially, the project presented problems in the deployment phase. An unstable i
 
 #### **Unfixed Bugs:**
 
-- There are some undefined variables in the js files, but don't affect the functionality of the game. 
+- There are some undefined variables in the js files, but they don't affect the functionality of the game. 
 - Due to the size of the games interface, the user may need to scroll down in order to view the lower text buttons. However, considering this incovenience, the game is still entirely accessible through all portable devices. 
 
 
