@@ -51,6 +51,11 @@ This section contains the quiz itself. The player is asked to answer 5 questions
 ![Game page image](https://res.cloudinary.com/lizac/image/upload/v1663529620/project2-bn-horror-film/Game_page_image_ma7ek9.jpg)
 </details>
 
+<details><summary>Progress Bar and Score example</summary>
+
+![Progress Bar and Score image](https://res.cloudinary.com/lizac/image/upload/v1663676093/project2-bn-horror-film/progression_bar_and_score_g91fgs.jpg)
+</details>
+
 <details><summary>Wrong question example image</summary>
 
 ![Wrong question example image](https://res.cloudinary.com/lizac/image/upload/v1663529968/project2-bn-horror-film/red_question_yoweqx.jpg)
@@ -74,13 +79,19 @@ In this webpage the user can see the scores of previous saved games alongside th
 ![Scores page image](https://res.cloudinary.com/lizac/image/upload/v1663530809/project2-bn-horror-film/scores_revnk8.jpg)
 </details>
 
-<details><summary>Players Scores Example</summary>
+<details><summary>Players Scores example</summary>
 
-![Players scores image](https://res.cloudinary.com/lizac/image/upload/v1663584923/project2-bn-horror-film/playersscores_zc0sg1.jpg)</details> <br />
+![Players scores image](https://res.cloudinary.com/lizac/image/upload/v1663584923/project2-bn-horror-film/playersscores_zc0sg1.jpg)
+</details>
+
+<details><summary>Scores Button detail</summary>
+
+![Scores Button detail](https://res.cloudinary.com/lizac/image/upload/v1663675554/project2-bn-horror-film/scorebutton_brvt1i.jpg)</details> <br />
 
 ### Future Features:
 - After each answer, a text box will appear to provide more info about the film.
 - A moving image background similar to the website for the [Criterion Collection](https://www.criterion.com/), will play behind the quiz.
+- A link to a film list on [Letterboxd](https://letterboxd.com/) will be added.
 - Additional questions and images relating to the films will be added.
 
 [Back to Top](#black--white-horror-film-quiz)
@@ -97,7 +108,7 @@ The font ‘Bigelow Rules’ was chosen for the title, which welcomes the user t
 #### **Colour Scheme:**
 
 ![Colour Palette](https://res.cloudinary.com/lizac/image/upload/v1663346333/project2-bn-horror-film/palette_p2_h8qy8c.jpg)
-The webpage is designed to reference black and white film as much as possible while maintaining legibility and balance throughout. The text is coloured white so that it appears dynamic when placed in front of the background image. The text is displayed in a light gray as opposed to a default bright white in order to prevent eyestrain.
+The webpage is designed to reference black and white film as much as possible while maintaining legibility and balance throughout. The proggres bar is coloured silver chalice so that it appears dynamic when placed in front of the background image. The text is displayed in a light gray as opposed to a default bright white in order to prevent eyestrain.
 
 [Back to Top](#black--white-horror-film-quiz)
 
