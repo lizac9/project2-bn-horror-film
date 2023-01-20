@@ -261,7 +261,6 @@ The code that was used in this project was based on [my last project](https://gi
 External resources relevant to this code:
 - [Web Dev simplified](https://youtu.be/riDzcEQbX6k)
 - [Disabling elements](https://alvarotrigo.com/blog/disable-button-javascript/#:~:text=To%20disable%20a%20button%20using,disabled%20JavaScript%20property%20to%20false%20)
-- [Trivia App in JavaScript](https://youtu.be/zgHim4ZDpZY)
 - [Build a Quiz App - Save High Scores in Local Storage](https://youtu.be/DFhmNLKwwGw)
 - [JavaScript user input](https://youtu.be/w9GNyw8AvlM)
 - [How to Make a Quiz App](https://youtu.be/f4fB9Xg2JEY)
