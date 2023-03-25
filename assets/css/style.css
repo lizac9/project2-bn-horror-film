@@ -43,7 +43,7 @@ h3 {
     text-shadow: 1px 1px #030303;
 }
 
-.holder {
+.container {
     width: 100vw;
     height: 100vh;
     display: flex;
@@ -132,7 +132,7 @@ body {
     font-size: 15rem;
 }
 
-.choice-holder {
+.choice-container {
     display: flex;
     margin-bottom: 0.8rem;
     width: 100%;
@@ -143,7 +143,7 @@ body {
     min-width: 80rem;
 }
 
-.choice-holder:hover {
+.choice-container:hover {
     cursor: pointer;
     box-shadow: 0 0.4rem 1.4rem 0 #030303;
     transition: transform 100ms;
@@ -222,11 +222,11 @@ body {
 /*Media queries game */
 
 @media screen and (max-width: 769px) {
-    .choice-holder {
+    .choice-container {
         min-width: 20rem;
     }
 
-    .holder {
+    .container {
         max-width: 90%;
     }
 
@@ -234,7 +234,7 @@ body {
 
 /* End page */
 
-.end-form-holder {
+.end-form-container {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -280,7 +280,7 @@ input::placeholder {
     font-size: 2rem;
 }
 
-/* Leader board Page */
+/* High Scores Page */
 
 body {
     color: #030303;
